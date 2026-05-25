@@ -27,7 +27,7 @@ While the MLP performs reasonably well on the Fashion-MNIST dataset, it does not
 
 This project demonstrates a full implementation of a multilayer perceptron using PyTorch, covering data preprocessing, model construction, training, and evaluation. By combining two hidden layers, ReLU activation functions, dropout regularization, and the Adam optimizer, this implementation highlights how fundamental components of neural networks work together to achieve effective learning and generalization (Zhang et al., 2023; Goodfellow et al., 2016). The work also provides a solid foundation for future exploration of more advanced architectures, such as convolutional neural networks, which can better capture spatial features in image data (LeCun et al., 1998; Zhang et al., 2023).
 
-# References
+## References
 
 AIT Translation Hub. (n.d.). Deep learning neuron. https://aitranslationhub.com/deep-neural-network/deep-learning-neuron/
 
