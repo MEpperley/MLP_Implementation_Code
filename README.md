@@ -30,7 +30,11 @@ This project demonstrates a full implementation of a multilayer perceptron using
 # References
 
 AIT Translation Hub. (n.d.). Deep learning neuron. https://aitranslationhub.com/deep-neural-network/deep-learning-neuron/
+
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT Press.
+
 LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278–2324.
+
 Nielsen, M. A. (2015). Neural networks and deep learning. Determination Press.
+
 Zhang, A., Lipton, Z. C., Li, M., & Smola, A. J. (2023). Dive into deep learning. Cambridge University Press.
